@@ -1,3 +1,5 @@
+deploy: https://dsaw-2024-2.github.io/dom-manipulation-dmartin110620/index/index.html
+
 # Reto de Carrusel Básico con HTML, CSS y JavaScript
 
 ![Design preview for the Carousel component coding challenge](./assets/mockup.png)
